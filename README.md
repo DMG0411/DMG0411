@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DMG0411
-- 👀 I’m interested in coding in C++
+- 👀 I’m interested in coding in Java and C
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
